@@ -28,10 +28,7 @@ Chatify is a sleek, responsive, and fully-functional AI Question-Answering web a
 
 ---
 
-## 🛠️ Tech Stack
-
-| Frontend      | Backend           | AI Model      |
-|---------------|---------------- --|---------------|
+## 🛠️ Tech StackS
 | HTML          | Node.js (Express) | Google Gemini 1.5 Flash / Pro |
 | CSS  AND JS   | dotenv            | @google/generative-ai          |
   
