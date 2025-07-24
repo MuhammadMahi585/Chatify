@@ -39,7 +39,7 @@ Chatify is a sleek, responsive, and fully-functional AI Question-Answering web a
 ```bash
 chatify/
 ├──screenshots
-|       ├── SS.png
+|       ├── image.png
 ├──node_modules
 ├── public/
 │       ├── index.html
