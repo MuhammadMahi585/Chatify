@@ -6,7 +6,7 @@ Chatify is a sleek, responsive, and fully-functional AI Question-Answering web a
 
 ## 🚀 Live Demo
 
-🌐 [View on Vercel](https://vercel.com/muhammadmahi585s-projects/chatify) 
+🌐 [View on Vercel](https://chatify-ruby.vercel.app/) 
 
 ---
 
@@ -28,10 +28,7 @@ Chatify is a sleek, responsive, and fully-functional AI Question-Answering web a
 
 ---
 
-## 🛠️ Tech Stack
-
-| Frontend      | Backend           | AI Model      |
-|---------------|---------------- --|---------------|
+## 🛠️ Tech StackS
 | HTML          | Node.js (Express) | Google Gemini 1.5 Flash / Pro |
 | CSS  AND JS   | dotenv            | @google/generative-ai          |
   
@@ -42,14 +39,10 @@ Chatify is a sleek, responsive, and fully-functional AI Question-Answering web a
 ```bash
 chatify/
 ├──screenshots
-|       ├── SS.png
+|       ├── image.png
 ├──node_modules
 ├── public/
 │       ├── index.html
 │       ├── style.css
 │       └── script.js
 ├── server.js
-├── .env
-├── package.json
-├── package-lock.json
-└── README.md
