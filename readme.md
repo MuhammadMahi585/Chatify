@@ -6,7 +6,7 @@ Chatify is a sleek, responsive, and fully-functional AI Question-Answering web a
 
 ## 🚀 Live Demo
 
-🌐 [View on Vercel](https://vercel.com/muhammadmahi585s-projects/chatify) 
+🌐 [View on Vercel](https://chatify-ruby.vercel.app/) 
 
 ---
 
